@@ -1,0 +1,18 @@
+import { render, fireEvent } from '@testing-library/svelte';
+import BookList from './BookList.svelte';
+
+describe('BookList', () => {
+  const books = [
+    { title: 'The Catcher in the Rye', author: 'J.D. Salinger' },
+    { title: 'To Kill a Mockingbird', author: 'Harper Lee' },
+    { title: '1984', author: 'George Orwell' },
+  ];
+
+  it('displays a list of books', () => {
+    const { getAllByText } = render(BookList, { books });
+    const bookElements = getAllByText(/-/, { exact: false });
+    expect(bookElements.length).toBe(3);
+  });
+
+  
+});

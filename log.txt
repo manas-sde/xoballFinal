@@ -1,0 +1,38 @@
+
+
+Fields for modified reports collections
+
+companyID
+reportID 
+assessmentName !
+candidateName !
+candidateEmail !
+aggregateScore !
+scoreRating !
+traitCategories [
+  traitCatName
+  traitCatScore(%)
+  traits [
+    traitName
+    traitScore
+    traitComment
+  ]
+]
+createdAt
+lastUpdatedAt
+
+
+
+##------------------------------------------
+
+
+
+
+record audio also
+timestamp and start video there
+
+
+
+GitLab token = glpat-kF-ZDp191XzRBrzjytDc
+
+openai - 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

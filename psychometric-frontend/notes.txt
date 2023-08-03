@@ -1,0 +1,30 @@
+Rename SUb trait count as - (Sub traits - 3)
+
+
+Create a databse of problem statement with jest tests (AI can be used here if trustworthy)
+Create a frontend.
+When candidate submit, send the code to fastapi backend
+recieve code and question id in backend
+fetch jest test from mongo db for that question id
+inside your fastapi project directory, create a separate folder for vue project
+write received code in a app.vue component file
+write jest test code in a app.test.js file
+use python subprocess for running those test
+capture output of those test in python
+give score for each tests
+
+Something like this -------------
+import subprocess
+
+@app.post("/run_svelte_tests")
+async def run_svelte_tests(svelte_code: str):
+    with open("test.svelte", "w") as f:
+        f.write(svelte_code)
+
+    cmd = "npm run test"
+    proc = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+
+    stdout, stderr = proc.communicate()
+
+    return {"stdout": stdout.decode("utf-8"), "stderr": stderr.decode("utf-8")}
+#-------------------------

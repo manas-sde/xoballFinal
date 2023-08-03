@@ -1,0 +1,4 @@
+
+> ffrontend@0.0.1 test
+> npx jest src "test" "src"
+

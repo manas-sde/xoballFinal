@@ -1,0 +1,190 @@
+
+     -------------- Output of time measurement using perf counter -----------------------
+
+
+xxxxxxxxxxxxxxxxx------------------ Average results -------------------------
+
+
+Average result for sample of 15 tests using MongoDB------
+     Get Questions time for all 10 traits: 21.5 ms  [fetched 10*10 = 100 questions]
+
+
+Average result for sample of 15 tests using MongoDB------
+     Get Questions time for all 10 traits: 49 ms  [fetched 10*10 = 100 questions]
+
+xxxxxxxxxxxxxx-------------------xxxxxxxxxxxxxxxxxxxxxx---------------------------------
+
+
+
+----------------- -----------Single sample result [10*5 = 50 Questions] ----------------------------------
+
+
+-------------------- Time consumed by API's using MongoDB--------------------------------
+Note: Each time is mentioned in seconds
+
+
+ In MongoDB, response time of route /create-assessment : 0.0037564490012300666
+
+ In MongoDB, response time of route /get-assessment : 0.007893457001046045
+
+ In MongoDB, response time of route /post-responses : 0.020482844000071054
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.002150977001292631
+
+ In MongoDB, response time of route /fetch-assessment-reports : 0.004882950001046993
+
+ In MongoDB, response time of route /fetch-all-reports : 0.002309570998477284
+
+
+-----------------------------xxxxxxxxxxxxxxxxxx--------------------------------------------
+
+
+-------------------- Time consumed by API's using MySQL DB------------------
+Note: Each time is mentioned in seconds
+
+
+ In MySQLDB, response time of route /create-assessment : 0.046772362002229784
+
+ In MySQLDB, response time of route /get-assessment : 0.05437783800152829
+
+ In MySQLDB, response time of route /fetch-all-assessments : 0.0035947589967690874
+
+ In MySQLDB, response time of route /fetch-assessment-reports : 0.00476077500206884
+
+ In MySQLDB, response time of route /fetch-all-reports : 0.0317886249977164
+
+ In MySQLDB, response time of route /fetch-all-assessments : 0.002781000999675598
+
+ In MySQLDB, response time of route /fetch-all-assessments : 0.02283922199785593
+
+ In MySQLDB, response time of route /get-assessment : 0.04958335600167629
+
+ In MySQLDB, response time of route /fetch-all-assessments : 0.0035221729999648232
+
+ In MySQLDB, response time of route /get-assessment : 0.035656225999900926
+
+ In MySQLDB, response time of route /post-responses : 0.03720178899993698
+
+ In MySQLDB, response time of route /fetch-all-assessments : 0.021086437999656482
+
+ In MySQLDB, response time of route /fetch-assessment-reports : 0.008586713000113377
+
+ In MySQLDB, response time of route /fetch-all-reports : 0.02629957999988619
+
+ In MySQLDB, response time of route /fetch-all-assessments : 0.003190982999967673
+
+ In MySQLDB, response time of route /fetch-assessment-reports : 0.005625204999887501
+
+ In MySQLDB, response time of route /fetch-assessment-reports : 0.006929788999968878
+
+ In MySQLDB, response time of route /get-assessment : 0.0064192169993475545
+
+
+xxxxxxxxxxxxxxxx------------------------------xxxxxxxxxxxxxxxxxxxxxx------------------------------------
+
+
+
+
+ In MySQLDB, response time of route /create-assessment : 0.04527843500000017
+
+ In MySQLDB, response time of route /fetch-all-assessments : 0.023121103000448784
+
+ In MySQLDB, response time of route /fetch-all-reports : 0.02123851999931503
+
+ In MySQLDB, response time of route /fetch-all-reports : 0.001024053999572061
+
+ In MySQLDB, response time of route /fetch-all-assessments : 0.0020372289982333314
+
+ In MySQLDB, response time of route /fetch-all-assessments : 0.008736784999200609
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.16034202599985292
+
+ In MongoDB, response time of route /fetch-all-reports : 0.0024554679985158145
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0009157029999187216
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.000990541997452965
+
+ In MongoDB, response time of route /get-assessment : 0.013576126002590172
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.001189499998872634
+
+ In MongoDB, response time of route /fetch-assessment-reports : 0.003408845001104055
+
+ In MongoDB, response time of route /fetch-all-reports : 0.0014602850023948122
+
+ In MongoDB, response time of route /fetch-all-reports : 0.001797629000066081
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0007313900023291353
+
+ In MongoDB, response time of route /get-assessment : 0.004158533000008902
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0007181859982665628
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0020276840004953556
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0009443759990972467
+
+ In MongoDB, response time of route /fetch-all-reports : 0.0011547519970918074
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0009422109978913795
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0024953500033007003
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0029340620021685027
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0022164719994179904
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0009914699985529296
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0011196120030945167
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0032667160012351815
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0012597860004461836
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0010219610012427438
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0035927579992858227
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.003104116000031354
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0013076569994154852
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0008264540010713972
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0010885960000450723
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0008737470016058069
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0015011520008556545
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.001810482997825602
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.003234705000068061
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.005028269999456825
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0009373409993713722
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.001087730001017917
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0017681210010778159
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.002120930999808479
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0010178890006500296
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0015303199979825877
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.003301241998997284
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0020639140020648483
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0012036560001433827
+
+ In MongoDB, response time of route /fetch-all-assessments : 0.0007844249994377606
+
+ In MongoDB, response time of route /fetch-all-assessments : 2.015281010000024
+
+ In MongoDB, response time of route /fetch-all-reports : 0.10250020600000198

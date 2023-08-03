@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://unpkg.com/react@17.0.2/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js" crossorigin></script>
+</head>
+
+<body>
+    <div id="root"></div>
+</body>
+<script type="text/babel">class ShoppingList extends React.Component {
+        render() {
+            return (
+                <div className="shopping-list">
+                    <h1>Shopping List for {this.props.name}</h1>
+                    <ul>
+                        <li>Instagram</li>
+                        <li>WhatsApp</li>
+                        <li>Oculus</li>
+                    </ul>
+                </div>
+            );
+        }
+    }
+
+
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(<ShoppingList />);</script>
+<style>
+    * {}
+</style>
+
+</html>

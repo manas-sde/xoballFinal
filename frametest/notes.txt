@@ -1,0 +1,44 @@
+Take a sample react question
+    -Check if heading is "Hello World"
+    -Check button which when clicked increments a counter
+    -Validate Input field that gets a number
+            - check if its a number
+            - check if its in range 0-100
+
+Hardcode question and test in backend
+Receive code from frontend
+Write a temp react js code in react project folder in the backend
+Write test in test.js in react folder
+run jest test using subprocess
+fetch output from json field
+send output to frontend
+render test output in frontend
+
+
+
+
+#--------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

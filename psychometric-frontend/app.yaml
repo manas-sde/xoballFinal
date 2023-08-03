@@ -1,0 +1,2 @@
+service: psychometric-frontend
+runtime: nodejs16

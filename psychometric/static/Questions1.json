@@ -1,0 +1,2672 @@
+[
+    {
+        "options": [
+            {
+                "opID": 9074,
+                "option": "Angry",
+                "opScore": 0
+            },
+            {
+                "opID": 1310,
+                "option": "Dejected",
+                "opScore": 1
+            },
+            {
+                "opID": 3999,
+                "option": "Feeling left alone",
+                "opScore": 2
+            },
+            {
+                "opID": 8204,
+                "option": "Neutral and practical",
+                "opScore": 3
+            }
+        ],
+        "traitID": 1,
+        "questionID": 1001,
+        "question": "The company has planned for a team outing after planning for 6 long months, but since you joined the company only a few weeks back they could not include you in the trip. What will be your emotional state?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6700,
+                "option": "Stop in the middle of the conversation and explain to him because if you keep on listening he might think that it's your fault and you are telling reasons for not finishing the work and it may affect your credibility",
+                "opScore": 0
+            },
+            {
+                "opID": 6450,
+                "option": "Inform the boss beforehand about the technical glitch so that he doesn't think that's because of your personal reason",
+                "opScore": 1
+            },
+            {
+                "opID": 1959,
+                "option": "Confront politely in the middle of the conversation and make sure you tell the reason and then continue the discussion",
+                "opScore": 2
+            },
+            {
+                "opID": 5621,
+                "option": "Listen calmly when your boss confronts you and at the end of the discussion make him understand the situation",
+                "opScore": 3
+            }
+        ],
+        "traitID": 1,
+        "questionID": 1002,
+        "question": "You are supposed to finish work on a stipulated time, but due to real technical constraints, you fall back from your deadline. Before you inform your boss about this technical glitch he starts to think you have not done the work and starts to be harsh on you. How will you make him understand that it is not your fault?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9882,
+                "option": "Forget everything that has happened and work since work comes first in a workplace",
+                "opScore": 0
+            },
+            {
+                "opID": 7749,
+                "option": "Inform your supervisor you can't work as it may disrupt the work atmosphere and productivity",
+                "opScore": 1
+            },
+            {
+                "opID": 1455,
+                "option": "You will work but not feel comfortable once done is done",
+                "opScore": 2
+            },
+            {
+                "opID": 2146,
+                "option": "Reason out what the fight was about, talk to the person and see whether you can work out with him",
+                "opScore": 3
+            }
+        ],
+        "traitID": 1,
+        "questionID": 1003,
+        "question": "Unfortunately, there has been a fight over a decision between you and your co-worker. Immediately you are asked to work along with him on a certain work. What will you do?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6243,
+                "option": "Restrain yourself from giving him any further work of this nature",
+                "opScore": 0
+            },
+            {
+                "opID": 4549,
+                "option": "Give him an excuse with the last warning and make sure to proofread the next time and make things correct.",
+                "opScore": 1
+            },
+            {
+                "opID": 5543,
+                "option": "Take responsibility for the fault and re-send the mail to the clients.",
+                "opScore": 2
+            },
+            {
+                "opID": 9658,
+                "option": "Make him re-send the mail, by again proofreading the contents the mail",
+                "opScore": 3
+            }
+        ],
+        "traitID": 1,
+        "questionID": 1004,
+        "question": "You have given the responsibility to your subordinate employee for sending a group mail for your esteemed claims, but he has left out certain information and sent the mail without proofreading. How will you rectify this problem?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6970,
+                "option": "Choose not to answer and proceed with the presentation",
+                "opScore": 0
+            },
+            {
+                "opID": 6954,
+                "option": "Stop the presentation and answer the questions and proceed further",
+                "opScore": 1
+            },
+            {
+                "opID": 1006,
+                "option": "I will feel a slight discomfort as it hinders the process but I will maintain my composure and proceed with the presentation by answering the questions",
+                "opScore": 2
+            },
+            {
+                "opID": 5943,
+                "option": "Clarify that the questions will be answered at the end of the presentation",
+                "opScore": 3
+            }
+        ],
+        "traitID": 1,
+        "questionID": 1005,
+        "question": "You happen to be presenting to a huge crowd in an open auditorium. There are a group of co-workers in the crowd who are not on good terms with you. In the progress, of the presentation, they interfere in between and bring up questions that are relevant but it hinders the progress of the presentation. What will you do in that situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9406,
+                "option": "Ask for a days time as you have to get used to the people and the workplace and start from Day 2",
+                "opScore": 0
+            },
+            {
+                "opID": 8317,
+                "option": "Adapt the situation and start working",
+                "opScore": 1
+            },
+            {
+                "opID": 7935,
+                "option": "Enquire your co-workers about the manager who you are going to work with and understand and make a judgment as to how you have to work with him",
+                "opScore": 2
+            },
+            {
+                "opID": 7442,
+                "option": "You\u2019ll feel a sense of skittishness as it is your first day but will remain your composure and work along with the manager",
+                "opScore": 3
+            }
+        ],
+        "traitID": 1,
+        "questionID": 1006,
+        "question": "You have been working in a place for almost 2 years now, and you are shifting to a company. While joining the company you are required to work with a senior manager of the firm for the next two months. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3093,
+                "option": "Since it is an unplanned leave and it will affect the team performance, do not grant him the leave",
+                "opScore": 0
+            },
+            {
+                "opID": 5414,
+                "option": "Grant him the leave but tell him to work remotely and ensure that the work is done on time",
+                "opScore": 1
+            },
+            {
+                "opID": 5982,
+                "option": "Grant him only 50% of the requested leave days",
+                "opScore": 2
+            },
+            {
+                "opID": 5543,
+                "option": "Grant him the requested leave and give him a one-time exemption and split up his task among the other team members so that it can be finished on time.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 1,
+        "questionID": 1007,
+        "question": "You are the boss of the firm. While conducting a weekly marketing meeting on Monday, you are discussing various tasks for the week ahead that has to be completed in two weeks' time by the end of the second week's Friday. After assigning all the tasks to your team members, one member of the team requests a week's leave for his sister's marriage, but he assures us that he will finish the work on time. But before the meeting, you discussed it with your team and asked whether they will able to finish the work in place of him and they obliged. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6128,
+                "option": "After the meeting, ask for a week's leave ensuring that you will finish the work on time",
+                "opScore": 0
+            },
+            {
+                "opID": 5451,
+                "option": "Ask for approval to share the workload with your team members and ensure that you will finish the task",
+                "opScore": 1
+            },
+            {
+                "opID": 9687,
+                "option": "Ask for permission to work remotely",
+                "opScore": 2
+            },
+            {
+                "opID": 4850,
+                "option": "Inform your boss about the situation and ask for leave beforehand",
+                "opScore": 3
+            }
+        ],
+        "traitID": 1,
+        "questionID": 1008,
+        "question": "There has been a huge task being lined up for the next two weeks, you are in dire need of personal leave for the next week as it is your close relative's marriage. But your boss is about to assign you the responsibility in the team meeting to finish the work in the stipulated time. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3370,
+                "option": "Take responsibility, help in finishing, and assure the top-level management that this mistake won't happen again",
+                "opScore": 0
+            },
+            {
+                "opID": 1368,
+                "option": "Inform the top-level management that it is not your fault",
+                "opScore": 1
+            },
+            {
+                "opID": 2089,
+                "option": "Try to make up for the mistakes by helping him finish the tasks",
+                "opScore": 2
+            },
+            {
+                "opID": 9708,
+                "option": "Take responsibility as you both have been assigned the task",
+                "opScore": 3
+            }
+        ],
+        "traitID": 1,
+        "questionID": 1009,
+        "question": "You and your co-worker have been assigned a task. In that case, when there is a negative result to the task and you are not responsible for the fault only your co-worker is responsible for the fault but you are being sued for the task, what will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6661,
+                "option": "Go to the isolated room and spend time with work-related files.",
+                "opScore": 0
+            },
+            {
+                "opID": 2364,
+                "option": "Try to socialize with other people at the pool table or foosball table.",
+                "opScore": 1
+            },
+            {
+                "opID": 2003,
+                "option": "Read books in silence.",
+                "opScore": 2
+            },
+            {
+                "opID": 4267,
+                "option": "Take a break from the work schedule and rest up a while.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 1,
+        "questionID": 1010,
+        "question": "Your office is in a coworking space, which has got lots of diverse companies on a single floor. You are there for almost 9 to 10 hours a day. There is space for isolation where you can work in silence and let no one disturb you. There is a pool table, foosball table, and a few board games where you can play. There is a couch where you can rest up for a while taking a break from your work schedule. And there is a bookshelf which offers you diverse books. How will you spend your absolutely free time in your workplace?"
+    },
+    {
+        "options": [
+            {
+                "opID": 7988,
+                "option": "Inform the employer and the participants to reschedule the meeting to the next day since no option was available to conduct the meeting on the same day.",
+                "opScore": 0
+            },
+            {
+                "opID": 1984,
+                "option": "Ask an employee of your equal status in the company to replace you for the meeting",
+                "opScore": 1
+            },
+            {
+                "opID": 9871,
+                "option": "Be open to the employer in informing your situation, as conducting the meeting ineffectively will spoil your reputation as well as the company's reputation, and seek immediate replacement options",
+                "opScore": 2
+            },
+            {
+                "opID": 7019,
+                "option": "Go ahead as per the schedule and inform your employer after the meeting about your problem.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 2,
+        "questionID": 1011,
+        "question": "You are entrusted with the task of conducting an important meeting at 10 am. At 7 am, you feel sick and don't know whether you would be able to conduct the meeting effectively. What would you do?"
+    },
+    {
+        "options": [
+            {
+                "opID": 7028,
+                "option": "favor your friend by taking up his task as yours and make the report on time",
+                "opScore": 0
+            },
+            {
+                "opID": 2148,
+                "option": "report to the higher authorities, since your reputation is at stake.",
+                "opScore": 1
+            },
+            {
+                "opID": 2537,
+                "option": "motivate the co-worker and get the work done effectively on time.",
+                "opScore": 2
+            },
+            {
+                "opID": 9556,
+                "option": "since you are known for your value of friendship help him in finishing the task so that you can submit the report on time",
+                "opScore": 3
+            }
+        ],
+        "traitID": 2,
+        "questionID": 1012,
+        "question": "You and your co-worker are required to work on a specific task by splitting the work equally and your co-worker has not done his assigned part of the work but it is your responsibility to hand over the finished document to the representative on time, what will you do to finish the work effectively."
+    },
+    {
+        "options": [
+            {
+                "opID": 6888,
+                "option": "Ask for the time from your employer citing the genuine situation and work on the goal to make it correct the next time.",
+                "opScore": 0
+            },
+            {
+                "opID": 1494,
+                "option": "Share the responsibility with your team, since the task must be completed as a team.",
+                "opScore": 1
+            },
+            {
+                "opID": 5586,
+                "option": "Even though the task has not been completed on time, try to work and finish it ASAP so that it will have no impact on the outcome.",
+                "opScore": 2
+            },
+            {
+                "opID": 9702,
+                "option": "Take responsibility as you are the leader of a team",
+                "opScore": 3
+            }
+        ],
+        "traitID": 2,
+        "questionID": 1013,
+        "question": "A task has been delegated to your team and you are the leader of the team, where finishing your part of the work is important as the completion of the whole work depends on how you finish your specific task. Out of situations, you are not able to complete the work on time, what will you do?"
+    },
+    {
+        "options": [
+            {
+                "opID": 7157,
+                "option": "Ask your close coworkers about the situation as it may give you clarity on what to decide with the information",
+                "opScore": 0
+            },
+            {
+                "opID": 7657,
+                "option": "You keep the information confidential since the supervisor has assured to take responsibility if anything negative happens",
+                "opScore": 1
+            },
+            {
+                "opID": 7005,
+                "option": "Behave ethically, as you are supposed to be following orders from your supervisor without questions asked, since that is your job description.",
+                "opScore": 2
+            },
+            {
+                "opID": 8135,
+                "option": "Even though your job is to follow your supervisor inform your boss about the confidential information.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 2,
+        "questionID": 1014,
+        "question": "Your supervisor asks you to keep certain information confidential from the boss as it would affect your reputation but may have a negative effect on the company\u2019s product."
+    },
+    {
+        "options": [
+            {
+                "opID": 5203,
+                "option": "Since your job requires only a weekly update make sure you finish your work by the end of the week by choosing work schedules as your comfortableness.",
+                "opScore": 0
+            },
+            {
+                "opID": 1483,
+                "option": "Be there on time sharp at 10 am and carry out the work so as you finish the work by closing time.",
+                "opScore": 1
+            },
+            {
+                "opID": 1164,
+                "option": "Arrive at the workplace a bit earlier so that you can get some time to relax and start your work for the day.",
+                "opScore": 2
+            },
+            {
+                "opID": 8512,
+                "option": "Choose your flexible work time to finish your work, but make sure you finish the day\u2019s task",
+                "opScore": 3
+            }
+        ],
+        "traitID": 2,
+        "questionID": 1015,
+        "question": "How do you carry out your daily activities in the workplace with the office timings that are from morning 10 am to evening 6 pm but offers you a flexible work time wherein you can choose any time to complete a specific task given to you."
+    },
+    {
+        "options": [
+            {
+                "opID": 6236,
+                "option": "Ask the help of coworkers and try finishing the work",
+                "opScore": 0
+            },
+            {
+                "opID": 3991,
+                "option": "Turn down the work and ask them to assign it to a much more relevant person as it would affect productivity and also affect credibility",
+                "opScore": 1
+            },
+            {
+                "opID": 9826,
+                "option": "Accept the work and try to finish within the time frame",
+                "opScore": 2
+            },
+            {
+                "opID": 3372,
+                "option": "Request the employer to state the difficulty in work and ask the required time frame",
+                "opScore": 3
+            }
+        ],
+        "traitID": 2,
+        "questionID": 1016,
+        "question": "When you are entrusted with a new work that you have not been assigned before, and you feel that the time is insufficient to do the work what will you do?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9511,
+                "option": "Observe others' opinions and gather thoughts and work on them",
+                "opScore": 0
+            },
+            {
+                "opID": 9587,
+                "option": "Voice out your opinion and stand firmly on your decision without any changes as you are very confident in your decision",
+                "opScore": 1
+            },
+            {
+                "opID": 5456,
+                "option": "Wait for others' opinions and be considerate though they might be wrong to a certain extent.",
+                "opScore": 2
+            },
+            {
+                "opID": 2636,
+                "option": "You make changes in your decision and when you are proven that your opinion needs to be changed but it might have the same effect whether changed or not changed",
+                "opScore": 3
+            }
+        ],
+        "traitID": 2,
+        "questionID": 1017,
+        "question": "If you are one of the team members in a team of 8 and when asked about the opinion/solution on a particular idea in general and you have conflicting ideas with the other team members how will you handle the situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3327,
+                "option": "Come back after the vacation and talk to your team members to know what has happened",
+                "opScore": 0
+            },
+            {
+                "opID": 5922,
+                "option": "Stay in touch with your coworkers as to what is going on in the office in your absence",
+                "opScore": 1
+            },
+            {
+                "opID": 3956,
+                "option": "Possibly try to get in touch with the team once in 3 days to know the happenings in the team",
+                "opScore": 2
+            },
+            {
+                "opID": 1558,
+                "option": "If you get a chance to work for a day in between, try to work remotely",
+                "opScore": 3
+            }
+        ],
+        "traitID": 2,
+        "questionID": 1018,
+        "question": "When you are absent from the workplace for a personal reason for a couple of weeks and you can't work even remotely for that specified time, how do you cope after the two weeks break?"
+    },
+    {
+        "options": [
+            {
+                "opID": 8759,
+                "option": "Inform the higher authorities that you'll be able to finish the work by taking 2 days extra citing your genuine personal reasons.",
+                "opScore": 0
+            },
+            {
+                "opID": 9950,
+                "option": "Try to work in a group for the time being so that you may finish the work on time.",
+                "opScore": 1
+            },
+            {
+                "opID": 9791,
+                "option": "Delegate your coworker friend who would do the work in place of you so that you can finish the work on time",
+                "opScore": 2
+            },
+            {
+                "opID": 2292,
+                "option": "Try to work a bit overtime on the days you are present so that you can have two days in hand for those emergency purposes",
+                "opScore": 3
+            }
+        ],
+        "traitID": 2,
+        "questionID": 1019,
+        "question": "You are given a week's time to finish the task. But emergency situations arise where you will be absent for 2 days, what will you do to finish the work?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6862,
+                "option": "When you see a blind person waiting to cross the road",
+                "opScore": 0
+            },
+            {
+                "opID": 5545,
+                "option": "When you see an animal being abused",
+                "opScore": 1
+            },
+            {
+                "opID": 8456,
+                "option": "When your superior tells a pregnant coworker to lift heavy boxes",
+                "opScore": 2
+            },
+            {
+                "opID": 2876,
+                "option": "When you are given some extra change by the cashier while buying in a grocery store.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 2,
+        "questionID": 1020,
+        "question": "Choose only one of the following situations where you feel the need to voice your opinion or take the right action in that instance."
+    },
+    {
+        "options": [
+            {
+                "opID": 9711,
+                "option": "Only when my mechanic is free as he knows much better about my vehicle than me",
+                "opScore": 0
+            },
+            {
+                "opID": 8270,
+                "option": "Drive as long as it runs and service it only when the need arises as time and money is an important criteria",
+                "opScore": 1
+            },
+            {
+                "opID": 5992,
+                "option": "Have my own criteria in mind as to when to service and do only at that time",
+                "opScore": 2
+            },
+            {
+                "opID": 4979,
+                "option": "Follow the regulations as per the user manual",
+                "opScore": 3
+            }
+        ],
+        "traitID": 3,
+        "questionID": 1021,
+        "question": "How often do you service the vehicle, and under what circumstances do you service, which is your only mode of transportation to and fro from the workplace to home?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5051,
+                "option": "Have a friend lend a helping hand in order to finish the project",
+                "opScore": 0
+            },
+            {
+                "opID": 6866,
+                "option": "Finish the project and have a person review it.",
+                "opScore": 1
+            },
+            {
+                "opID": 2554,
+                "option": "Finish the project and check for any corrective measures over and over again.",
+                "opScore": 2
+            },
+            {
+                "opID": 4695,
+                "option": "Finish the project beforehand and look at the project a day after to get any possible ideas or corrections.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 3,
+        "questionID": 1022,
+        "question": "you are required to work on a special project which no one will supervise. You are completely responsible for the cause and effect of the project how will you ensure that you have done all the necessary corrective steps?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6984,
+                "option": "Finish the three tasks in two weeks' time and take up another work in the remaining time",
+                "opScore": 0
+            },
+            {
+                "opID": 8926,
+                "option": "Split the three tasks among three weeks as each task for a week and complete it",
+                "opScore": 1
+            },
+            {
+                "opID": 5568,
+                "option": "Split three tasks over two weeks and keep the last week for review.",
+                "opScore": 2
+            },
+            {
+                "opID": 2572,
+                "option": "Finish your work as per your plan such that you have time for review and corrections.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 3,
+        "questionID": 1023,
+        "question": "You have three weeks' time to finish your work. The work consists of three tasks, how will you plan and split the work and finish it in three weeks' time?"
+    },
+    {
+        "options": [
+            {
+                "opID": 8721,
+                "option": "have a discussion on the dates with the team and conduct the meeting as per the team's convenience",
+                "opScore": 0
+            },
+            {
+                "opID": 9404,
+                "option": "Conduct sudden meetings immediately so as to make a surprise check on the performance",
+                "opScore": 1
+            },
+            {
+                "opID": 8589,
+                "option": "Inform about the evening meeting in the morning which allows the team to get organized",
+                "opScore": 2
+            },
+            {
+                "opID": 4021,
+                "option": "Send a mail a week before and schedule the meeting by consulting everyone",
+                "opScore": 3
+            }
+        ],
+        "traitID": 3,
+        "questionID": 1024,
+        "question": "You are the team manager, how will you organize your team meeting?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3998,
+                "option": "Tell the client the genuine reason for your absence, and request a later date for submission",
+                "opScore": 0
+            },
+            {
+                "opID": 9932,
+                "option": "Delegate the team member in place of you to complete the project on your behalf",
+                "opScore": 1
+            },
+            {
+                "opID": 7271,
+                "option": "Submit the project on the day before leaving for vacation",
+                "opScore": 2
+            },
+            {
+                "opID": 6598,
+                "option": "Possibly try managing the personal work after you have completed the project.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 3,
+        "questionID": 1025,
+        "question": "You are the team lead for a certain project, but you are out on personal leave on the day of submission. What will be the possible steps that you will make to ensure the completion of the project on time?"
+    },
+    {
+        "options": [
+            {
+                "opID": 1228,
+                "option": "Reschedule it for a later time on the same day, since presenting without confidence might reflect on your personality.",
+                "opScore": 0
+            },
+            {
+                "opID": 8026,
+                "option": "For one last time discuss with your manager and see what can be done to be improved, because perfecting even at the last minute may help you",
+                "opScore": 1
+            },
+            {
+                "opID": 3843,
+                "option": "Discuss your problem with your co-worker and seek advice as it may boost your confidence levels",
+                "opScore": 2
+            },
+            {
+                "opID": 6364,
+                "option": "Proceed with the presentation neglecting all the doubts",
+                "opScore": 3
+            }
+        ],
+        "traitID": 3,
+        "questionID": 1026,
+        "question": "You have a presentation due in 30 minutes. But still lack confidence in the contents of the presentation though you have revised it more than one time. But you still lack a sense of fulfillment. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 8627,
+                "option": "Take it to a person who is an immigrant to the software and explain to him and get his ideas on what he thinks",
+                "opScore": 0
+            },
+            {
+                "opID": 3940,
+                "option": "Take it to the higher authority and have him get looked into it.",
+                "opScore": 1
+            },
+            {
+                "opID": 5362,
+                "option": "Discuss with the other team members and look for glitches",
+                "opScore": 2
+            },
+            {
+                "opID": 9064,
+                "option": "Take time in reviewing all the processes done and repeat the step by step to achieve perfection",
+                "opScore": 3
+            }
+        ],
+        "traitID": 3,
+        "questionID": 1027,
+        "question": "You are given a task to develop software that goes up for testing in a few days. Though you have finished the work you still feel there is space for improvement. How will you make the software much better"
+    },
+    {
+        "options": [
+            {
+                "opID": 9162,
+                "option": "Depends on the place",
+                "opScore": 0
+            },
+            {
+                "opID": 4116,
+                "option": "Leave the mugs at the workplace that will be collected at the end of the day",
+                "opScore": 1
+            },
+            {
+                "opID": 8160,
+                "option": "Leave it near the sink where most of the coworkers keep the cups",
+                "opScore": 2
+            },
+            {
+                "opID": 5389,
+                "option": "Leave it in a place allotted for soiled mugs",
+                "opScore": 3
+            }
+        ],
+        "traitID": 3,
+        "questionID": 1028,
+        "question": "In your workplace, there is a coffee machine wherein you can get coffee anytime. There is a rack where all the washed coffee cups are lined up. After you have finished the coffee you can leave the used mugs near the sink where most of the coworkers leave the cup, or on your work table itself where the up keepers clear the cup during the end of the day, or in a place that has been allotted for used coffee mugs which no one uses regularly. What will you do?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6790,
+                "option": "Delegating the work.",
+                "opScore": 0
+            },
+            {
+                "opID": 1920,
+                "option": "Reviewing with the higher authorities",
+                "opScore": 1
+            },
+            {
+                "opID": 6452,
+                "option": "Collaborative efforts",
+                "opScore": 2
+            },
+            {
+                "opID": 8375,
+                "option": "Perfectionism",
+                "opScore": 3
+            }
+        ],
+        "traitID": 3,
+        "questionID": 1029,
+        "question": "What is the most important thing according to you in finishing the tasks that have been given to you?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5875,
+                "option": "Try at least completing half of the work so that you can show progress if not the work has been completed fully",
+                "opScore": 0
+            },
+            {
+                "opID": 1818,
+                "option": "Accept the work and try to complete it within two days",
+                "opScore": 1
+            },
+            {
+                "opID": 8328,
+                "option": "Collaborate with coworkers and finish the task in 2 days' time",
+                "opScore": 2
+            },
+            {
+                "opID": 9828,
+                "option": "Explain that two days is not sufficient and ask for the exact time to complete the work",
+                "opScore": 3
+            }
+        ],
+        "traitID": 3,
+        "questionID": 1030,
+        "question": "You are given an important task that has to be finished in 2 days. But you and the manager who gave you the work know that 2 days are not sufficient to finish the work what will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6085,
+                "option": "Do not interrupt as it may bring a bad impression on you since it is a group discussion.",
+                "opScore": 0
+            },
+            {
+                "opID": 2100,
+                "option": "Inform the organizer about the derogatory comments made during the group discussions.",
+                "opScore": 1
+            },
+            {
+                "opID": 8782,
+                "option": "Note the person making offensive comments and after the meeting confront them personally.",
+                "opScore": 2
+            },
+            {
+                "opID": 5771,
+                "option": "Interrupt and tell that the comments are offensive."
+            }
+        ],
+        "traitID": 4,
+        "questionID": 1031,
+        "question": "You are attending a group discussion for an interview. There is a topic that is in the discussion. In the process of discussion, you notice that there are some subtle offensive comments being told. How will you react to the situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3772,
+                "option": "Since he is the boss and it is his decision, in the end, do what he says.",
+                "opScore": 0
+            },
+            {
+                "opID": 5372,
+                "option": "Give your opinion to your boss at the end of the discussion in person",
+                "opScore": 1
+            },
+            {
+                "opID": 1456,
+                "option": "Discuss it with your co-workers on the opinion and decide what to do",
+                "opScore": 2
+            },
+            {
+                "opID": 1037,
+                "option": "Voice out your opinion as it may be constructive in the progress of the possess"
+            }
+        ],
+        "traitID": 4,
+        "questionID": 1032,
+        "question": "In a team meeting when you are discussing a certain process. Your boss gives an opinion in the meeting and tries to convince you that the idea would work. But deep down you have an opinion that contradicts your boss. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 4750,
+                "option": "It improves team building since you get a chance to interact with team members in a friendly manner",
+                "opScore": 0
+            },
+            {
+                "opID": 1638,
+                "option": "Suggest other options in place of the fun Friday activity",
+                "opScore": 1
+            },
+            {
+                "opID": 2232,
+                "option": "Suggests changes in the activity as it needs improvement",
+                "opScore": 2
+            },
+            {
+                "opID": 6263,
+                "option": "Preparation for those events takes up a certain time of the schedule and hence can be avoided"
+            }
+        ],
+        "traitID": 4,
+        "questionID": 1033,
+        "question": "What is your opinion of a fun Friday activity that most big companies enforce on the employees for one solid hour on a Friday evening?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5494,
+                "option": "Choose to ignore it as you are minding your own business.",
+                "opScore": 0
+            },
+            {
+                "opID": 7712,
+                "option": "Discuss with the team members and make the person correct it.",
+                "opScore": 1
+            },
+            {
+                "opID": 9541,
+                "option": "Notice the mistake and inform your team leader.",
+                "opScore": 2
+            },
+            {
+                "opID": 2720,
+                "option": "Stop them and tell them that they are doing a mistake and make them correct it."
+            }
+        ],
+        "traitID": 4,
+        "questionID": 1034,
+        "question": "You are in a big firm. A team of members is working on a project. In the progress of the meeting, you notice the employee making a mistake and proceeding with it. You can see that it hinders the process of the project. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9674,
+                "option": "Go to the office anyway",
+                "opScore": 0
+            },
+            {
+                "opID": 9718,
+                "option": "Without telling the reason take a sick leave",
+                "opScore": 1
+            },
+            {
+                "opID": 4372,
+                "option": "Request a day to work from home",
+                "opScore": 2
+            },
+            {
+                "opID": 7740,
+                "option": "Inform your situation and request a day off"
+            }
+        ],
+        "traitID": 4,
+        "questionID": 1035,
+        "question": "Depression and emotional instability can be occurring to anyone at any time. For instance, you are feeling emotionally unstable all of a sudden by the time you are going to the office. You feel that even going to the office you will not be able to work productively. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9051,
+                "option": "Stay silent as it is none of your concern to interfere as long as the comments are pointed towards you",
+                "opScore": 0
+            },
+            {
+                "opID": 8204,
+                "option": "Express discomfort and leave the dinner in between.",
+                "opScore": 1
+            },
+            {
+                "opID": 1056,
+                "option": "Call the person personally and tell them that their comments were humiliating after the end of the dinner.",
+                "opScore": 2
+            },
+            {
+                "opID": 1271,
+                "option": "Support your coworker, tell them that their comment is humiliating and this is team dinner, not a formal team meeting on the spot."
+            }
+        ],
+        "traitID": 4,
+        "questionID": 1036,
+        "question": "You and your team are meeting for a team dinner. It is supposed to be an informal meeting and meant for team building. In that meeting out of the blue one of the superiors start making comments about one of your coworkers that kind of seemed to be humiliating from your point of view."
+    },
+    {
+        "options": [
+            {
+                "opID": 3202,
+                "option": "Take help from your coworkers who have knowledge of the subject, and continue working on the project",
+                "opScore": 0
+            },
+            {
+                "opID": 6667,
+                "option": "Request your boss to find a replacement for the project as it would affect the progress of the project",
+                "opScore": 1
+            },
+            {
+                "opID": 4951,
+                "option": "Tell the boss that you require time to learn the skills so that you can work on the project",
+                "opScore": 2
+            },
+            {
+                "opID": 6890,
+                "option": "Be open, and express that you don't have the required skills to work on them"
+            }
+        ],
+        "traitID": 4,
+        "questionID": 1037,
+        "question": "There is a new project that is lining up. You are about to be put up in the team for the project. That project requires a set of new skills to be learned that will take up some time. How will you handle the situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9312,
+                "option": "Disagree",
+                "opScore": 0
+            },
+            {
+                "opID": 1324,
+                "option": "Depends on the people around",
+                "opScore": 1
+            },
+            {
+                "opID": 5072,
+                "option": "Depends on the situation",
+                "opScore": 2
+            },
+            {
+                "opID": 1399,
+                "option": "Agree"
+            }
+        ],
+        "traitID": 4,
+        "questionID": 1038,
+        "question": "Certain situations require you to be frank and open, but it may end up hurting someone or a group of people in the progress. But deep down you know that you will be making the right choice by being open and frank. Do you feel that being open in this situation is the best possible option?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5563,
+                "option": "Choose not to tell, since you are the boss and can explain them later when asked.",
+                "opScore": 0
+            },
+            {
+                "opID": 9110,
+                "option": "Just blankly tell them, that salary won't be given and assure them it will be paid in full after.",
+                "opScore": 1
+            },
+            {
+                "opID": 5624,
+                "option": "Inform about the situation of the company to your employees, make them understand what your company is going through and inform them salary will be given only after 2 months",
+                "opScore": 2
+            },
+            {
+                "opID": 3596,
+                "option": "Conduct a team meeting and discuss all the possible options for either getting out of this situation or how to handle the situation and understand the employees' mindset on the current situation."
+            }
+        ],
+        "traitID": 4,
+        "questionID": 1039,
+        "question": "Your company is facing a crisis, you are responsible for maintaining peace in the workplace. You will not be able to pay the employees for a brief period of 2 months. But after that, you will be paying them in full. What will be your course of action in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 4716,
+                "option": "Choose not to tell anything differing from his decisions, as he is the boss and it is his decision",
+                "opScore": 0
+            },
+            {
+                "opID": 9597,
+                "option": "Discuss this with your other team members and then convey your decision to your boss.",
+                "opScore": 1
+            },
+            {
+                "opID": 3476,
+                "option": "Listen and ask for time to think about it and tell it later on",
+                "opScore": 2
+            },
+            {
+                "opID": 9002,
+                "option": "Immediately tell that you differ from the opinion and tell your thoughts."
+            }
+        ],
+        "traitID": 4,
+        "questionID": 1040,
+        "question": "Your boss in person asks you about a certain decision. He also discusses the decision that he has in his mind. After listening to that you feel a slight change in the decision must be a better option. What will be your decision in a situation like this?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5955,
+                "option": "Considering the betterment of the company laying them off is a good option",
+                "opScore": 0
+            },
+            {
+                "opID": 8065,
+                "option": "You could have spoken to them personally and made them realize",
+                "opScore": 1
+            },
+            {
+                "opID": 2665,
+                "option": "Should have revamped the time working hours and made them a rule",
+                "opScore": 2
+            },
+            {
+                "opID": 9991,
+                "option": "The top management should have spoken to them and made them understand and should have tried correcting them",
+                "opScore": 3
+            }
+        ],
+        "traitID": 5,
+        "questionID": 1041,
+        "question": "A worker is constantly being late to work, but he/she finishes the task given to her in the specified time and always be on time in submitting the work. Though this is good but since it disturbs team balance they had to let go of the person for the betterment of the company. What is your take on this?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6416,
+                "option": "Request a day's time since it is really difficult to perform the task on time.",
+                "opScore": 0
+            },
+            {
+                "opID": 2051,
+                "option": "Request your co-worker to help you in finishing the task",
+                "opScore": 1
+            },
+            {
+                "opID": 4788,
+                "option": "Request the boss for additional time on the same day and finish it by the end of the day.",
+                "opScore": 2
+            },
+            {
+                "opID": 6594,
+                "option": "Rush up and work without a break and submit the report on time",
+                "opScore": 3
+            }
+        ],
+        "traitID": 5,
+        "questionID": 1042,
+        "question": "You are requesting your boss to make work from home assuring that you will finish the work by the end of the day, but due to unavoidable circumstances, you are able to finish only 50 % of the work. How will you ensure to finish the work on time?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9232,
+                "option": "Discuss with the co-worker, and ask their opinion on this.",
+                "opScore": 0
+            },
+            {
+                "opID": 3829,
+                "option": "Follow the directions as you are answerable to the senior manager.",
+                "opScore": 1
+            },
+            {
+                "opID": 7021,
+                "option": "Ignore the manager's directions and tell the boss since the company\u2019s betterment is your interest.",
+                "opScore": 2
+            },
+            {
+                "opID": 7269,
+                "option": "Think over it again and tell the manager that since the information is going to cost it's better you directly tell the boss.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 5,
+        "questionID": 1043,
+        "question": "Your senior manager tells you to hide certain sensitive information from your boss as that information would cause cost the company negatively. What do you think is the best possible thing to do?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9879,
+                "option": "Reasonable",
+                "opScore": 0
+            },
+            {
+                "opID": 2772,
+                "option": "Not Reasonable",
+                "opScore": 1
+            },
+            {
+                "opID": 3309,
+                "option": "Employees should have been given a chance",
+                "opScore": 2
+            },
+            {
+                "opID": 6872,
+                "option": "Should have listened to the employee's explanation",
+                "opScore": 3
+            }
+        ],
+        "traitID": 5,
+        "questionID": 1044,
+        "question": "Do you think it is reasonable for the company to lay off an employee without listening to their part of the explanation since it is in the company\u2019s policy to sack the employees without prior notice?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5499,
+                "option": "Disagree",
+                "opScore": 0
+            },
+            {
+                "opID": 5431,
+                "option": "Depends on the situation/project",
+                "opScore": 1
+            },
+            {
+                "opID": 9944,
+                "option": "Strongly agree",
+                "opScore": 2
+            },
+            {
+                "opID": 5281,
+                "option": "Agree",
+                "opScore": 3
+            }
+        ],
+        "traitID": 5,
+        "questionID": 1045,
+        "question": "For technology-based companies, WFH is the best option since everything is online"
+    },
+    {
+        "options": [
+            {
+                "opID": 8137,
+                "option": "Understand that you have accepted the company\u2019s policy and work as per schedule.",
+                "opScore": 0
+            },
+            {
+                "opID": 2892,
+                "option": "since you cannot be productive as it hinders your personal life, look for a change of workplace.",
+                "opScore": 1
+            },
+            {
+                "opID": 9703,
+                "option": "Explain to the manager about your personal constants and request flexible work timings.",
+                "opScore": 2
+            },
+            {
+                "opID": 9709,
+                "option": "Request for a WFH option, as you can be productive both professionally and personally",
+                "opScore": 3
+            }
+        ],
+        "traitID": 5,
+        "questionID": 1046,
+        "question": "You know that you will be able to finish the task on time. But your company policy instructs you to stay in the office for a definite amount of time. But due to your personal constraints, you need to have flexible work timings. What will you do?"
+    },
+    {
+        "options": [
+            {
+                "opID": 1387,
+                "option": "Disagree",
+                "opScore": 0
+            },
+            {
+                "opID": 2457,
+                "option": "Personal choice",
+                "opScore": 1
+            },
+            {
+                "opID": 7173,
+                "option": "Agree",
+                "opScore": 2
+            },
+            {
+                "opID": 1544,
+                "option": "Produce when demanded",
+                "opScore": 3
+            }
+        ],
+        "traitID": 5,
+        "questionID": 1047,
+        "question": "Do you feel that ID cards are necessary to wear around the neck always?"
+    },
+    {
+        "options": [
+            {
+                "opID": 7063,
+                "option": "Ask your boss to put some of your co-workers to help you out with the project.",
+                "opScore": 0
+            },
+            {
+                "opID": 8775,
+                "option": "Request a compensation of leave for the two days afterward.",
+                "opScore": 1
+            },
+            {
+                "opID": 9830,
+                "option": "Work as requested since you know the importance of the project.",
+                "opScore": 2
+            },
+            {
+                "opID": 9537,
+                "option": "since you have planned for that particular weekend almost 2 months back and since it will affect your personal life reason it out to your boss and request a change in person to do the work.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 5,
+        "questionID": 1048,
+        "question": "The project has to be submitted by Monday and it is Friday today. Still, the work hasn't been completed and it at least requires 2 days for completion. Your boss requests you to work on the weekends to finish the work and it is a mid-sized company. What will be your response in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3164,
+                "option": "Since he is not going to know about it, fake the information",
+                "opScore": 0
+            },
+            {
+                "opID": 7077,
+                "option": "Talk in detail about the question asked",
+                "opScore": 1
+            },
+            {
+                "opID": 3145,
+                "option": "Choose to ignore the question",
+                "opScore": 2
+            },
+            {
+                "opID": 7486,
+                "option": "Restrain some information as it is completely unnecessary",
+                "opScore": 3
+            }
+        ],
+        "traitID": 5,
+        "questionID": 1049,
+        "question": "Surprisingly your boss asks you a personal question that is completely irrelevant to the work situation. How will you respond?"
+    },
+    {
+        "options": [
+            {
+                "opID": 8997,
+                "option": "Save yourself first",
+                "opScore": 0
+            },
+            {
+                "opID": 9936,
+                "option": "The old man",
+                "opScore": 1
+            },
+            {
+                "opID": 9860,
+                "option": "Infant",
+                "opScore": 2
+            },
+            {
+                "opID": 8931,
+                "option": "A young man",
+                "opScore": 3
+            }
+        ],
+        "traitID": 5,
+        "questionID": 1050,
+        "question": "You are in a danger, and there are three other people with you in the situation. An old man, an infant, and a young man. You can save only one person other than saving yourself. Who would be your choice?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3395,
+                "option": "Finish the work and inform the boss only when asked from you while you carry on with other works.",
+                "opScore": 0
+            },
+            {
+                "opID": 7319,
+                "option": "Regularly inform him about the progress of the task given",
+                "opScore": 1
+            },
+            {
+                "opID": 4494,
+                "option": "Finish the task by defining your own deadline.",
+                "opScore": 2
+            },
+            {
+                "opID": 1906,
+                "option": "Ask the boss when to finish it and plan accordingly.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 6,
+        "questionID": 1051,
+        "question": "Your boss has given you a task but has not given a time limit for you to finish the task and has not given you any directions as to how to finish the task. How will you proceed with the task?"
+    },
+    {
+        "options": [
+            {
+                "opID": 8210,
+                "option": "Disagree",
+                "opScore": 0
+            },
+            {
+                "opID": 1543,
+                "option": "Depending on the purpose",
+                "opScore": 1
+            },
+            {
+                "opID": 2432,
+                "option": "Agree",
+                "opScore": 2
+            },
+            {
+                "opID": 4727,
+                "option": "Agree but question the necessity",
+                "opScore": 3
+            }
+        ],
+        "traitID": 6,
+        "questionID": 1052,
+        "question": "Your company changes the policy of WFH from 3 days a week to 1 day a week citing the necessity for collaboration of ideas happens more when meeting in person, your opinion on this."
+    },
+    {
+        "options": [
+            {
+                "opID": 8240,
+                "option": "DIY",
+                "opScore": 0
+            },
+            {
+                "opID": 8873,
+                "option": "Be flexible and finish the task, and then inform the top management.",
+                "opScore": 1
+            },
+            {
+                "opID": 1522,
+                "option": "Consult with the top management",
+                "opScore": 2
+            },
+            {
+                "opID": 5209,
+                "option": "Follow the rules",
+                "opScore": 3
+            }
+        ],
+        "traitID": 6,
+        "questionID": 1053,
+        "question": "For a certain job to be done, you feel that following the rules might not be the best feasible option, only by bending the rule, you will be able to finish the task. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5724,
+                "option": "Express high acceptableness as it disrupts working patterns frequently.",
+                "opScore": 0
+            },
+            {
+                "opID": 2948,
+                "option": "Accept the distress and support them in their thoughts",
+                "opScore": 1
+            },
+            {
+                "opID": 9896,
+                "option": "Find the complaint unreasonable",
+                "opScore": 2
+            },
+            {
+                "opID": 6530,
+                "option": "Advice to follow since it is the company\u2019s rule",
+                "opScore": 3
+            }
+        ],
+        "traitID": 6,
+        "questionID": 1054,
+        "question": "Your company keeps on changing the work policies so frequently, and your co-worker complains about this to you, what do you feel about this?"
+    },
+    {
+        "options": [
+            {
+                "opID": 4140,
+                "option": "Abide by the old color coding",
+                "opScore": 0
+            },
+            {
+                "opID": 6571,
+                "option": "Unsure",
+                "opScore": 1
+            },
+            {
+                "opID": 2932,
+                "option": "Since you have been following the old color coding you tend to forget it at times and follow the old color pattern.",
+                "opScore": 2
+            },
+            {
+                "opID": 2152,
+                "option": "Follow the new color coding",
+                "opScore": 3
+            }
+        ],
+        "traitID": 6,
+        "questionID": 1055,
+        "question": "In case the traffic signals color coding has been changed to green is for stop, yellow is to go and red is to proceed cautiously for one single day."
+    },
+    {
+        "options": [
+            {
+                "opID": 4131,
+                "option": "Indicate that you are turning and proceed cautiously.",
+                "opScore": 0
+            },
+            {
+                "opID": 3924,
+                "option": "Hand signal and put indicators and turn and turn cautiously",
+                "opScore": 1
+            },
+            {
+                "opID": 8431,
+                "option": "Wait for the oncoming vehicle to reduce, indicate, and then take the turn",
+                "opScore": 2
+            },
+            {
+                "opID": 6729,
+                "option": "Avoid taking the turn",
+                "opScore": 3
+            }
+        ],
+        "traitID": 6,
+        "questionID": 1056,
+        "question": "When you are about to make an u-turn in oncoming traffic where the U-turn is not allowed. How will you proceed cautiously in the situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 2481,
+                "option": "Not acceptable",
+                "opScore": 0
+            },
+            {
+                "opID": 5208,
+                "option": "Possibly opt for work from home, as it saves time and increases productivity",
+                "opScore": 1
+            },
+            {
+                "opID": 2271,
+                "option": "I will be asking for permission to come a bit late",
+                "opScore": 2
+            },
+            {
+                "opID": 1967,
+                "option": "Acceptable",
+                "opScore": 3
+            }
+        ],
+        "traitID": 6,
+        "questionID": 1057,
+        "question": "Your office requires you to come to the office on time even on rainy days when commuting gets difficult. What do you think?"
+    },
+    {
+        "options": [
+            {
+                "opID": 7073,
+                "option": "Strongly disagree",
+                "opScore": 0
+            },
+            {
+                "opID": 9943,
+                "option": "Disagree",
+                "opScore": 1
+            },
+            {
+                "opID": 1081,
+                "option": "Agreeable depending on the situation",
+                "opScore": 2
+            },
+            {
+                "opID": 5362,
+                "option": "Agree",
+                "opScore": 3
+            }
+        ],
+        "traitID": 6,
+        "questionID": 1058,
+        "question": "Have you heard of the circumstances where certain offices have a rule that does not allow the usage of personal communication devices during office hours since they work on a compassionate project? Do you think that is reasonable?"
+    },
+    {
+        "options": [
+            {
+                "opID": 8721,
+                "option": "Assign the work to the subordinate since you are the boss.",
+                "opScore": 0
+            },
+            {
+                "opID": 4442,
+                "option": "Inform the boss that you need help and can't work alone on the task.",
+                "opScore": 1
+            },
+            {
+                "opID": 3240,
+                "option": "Collaborate on the work with your subordinate",
+                "opScore": 2
+            },
+            {
+                "opID": 1885,
+                "option": "Do the work as instructed",
+                "opScore": 3
+            }
+        ],
+        "traitID": 6,
+        "questionID": 1059,
+        "question": "Your boss gives you a job that has to be done only by you and not give it to your subordinates. But since you are occupied with loads of work what will you do?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9571,
+                "option": "You were maks only when someone insists as you don't see anyone wearing masks voluntarily",
+                "opScore": 0
+            },
+            {
+                "opID": 1416,
+                "option": "Since no one is going to ask in your workplace to wear a mask, wear masks while commuting.",
+                "opScore": 1
+            },
+            {
+                "opID": 8518,
+                "option": "Since you feel a car is a closed commuting mode, restrict yourself from wearing masks inside the car alone",
+                "opScore": 2
+            },
+            {
+                "opID": 7845,
+                "option": "Wear masks as instructed in public places and while traveling.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 6,
+        "questionID": 1060,
+        "question": "The covid cases are decreasing but as a precautionary measure, the government has issued a statement regarding the compulsory wearing of masks, while at the workplace, while commuting by bike or car, or in any other public places and also issued a statement imposing Rs.500 fine if masks are worn at all the times. What is your opinion on this?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3760,
+                "option": "Just direct him to do the work as he is your subordinate",
+                "opScore": 0
+            },
+            {
+                "opID": 7189,
+                "option": "Since you are the senior manager make a team and get the work done",
+                "opScore": 1
+            },
+            {
+                "opID": 1241,
+                "option": "Motivate him to work together on this by giving him incentives",
+                "opScore": 2
+            },
+            {
+                "opID": 8758,
+                "option": "Make him understand that this work has to be done by both of you and get the work done"
+            }
+        ],
+        "questionID": 1061,
+        "question": "You and your coworker join the firm on the same day, you both are equally talented, but you get promoted to the senior manager but he still remains the junior manager and has to report to you. The reason for him being in the same position is because of his attitude but he thinks of you as a rival and you are the reason for him being sidelined. Now your superior gives you work that involves both of you to work together and get the work done, how will you get the work done?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9399,
+                "option": "Implementation of organizational hierarchy",
+                "opScore": 0
+            },
+            {
+                "opID": 5173,
+                "option": "Delegation and direction",
+                "opScore": 1
+            },
+            {
+                "opID": 3984,
+                "option": "Conditional incentives",
+                "opScore": 2
+            },
+            {
+                "opID": 8767,
+                "option": "Collaboration and teamwork."
+            }
+        ],
+        "questionID": 1062,
+        "question": "What do you think is the most productive way of delivering the expected result in the stipulated time in a huge organization?"
+    },
+    {
+        "options": [
+            {
+                "opID": 1805,
+                "option": "since everyone is able to perform at the same level, choose randomly on a trial and error basis",
+                "opScore": 0
+            },
+            {
+                "opID": 5069,
+                "option": "Choose the people who you are comfortable working with as it may be the best move in delegating the tasks",
+                "opScore": 1
+            },
+            {
+                "opID": 9052,
+                "option": "Choose people based on their level of expertise from different levels of the organizational hierarchy.",
+                "opScore": 2
+            },
+            {
+                "opID": 9933,
+                "option": "You have got several functional teams already, choose the required number of employees from each team and make a new team who would be effective in carrying out the tasks"
+            }
+        ],
+        "questionID": 1063,
+        "question": "You need to put up a team for the next big task that is coming up. How will you form a team and on what basis will you be choosing the team for the specified task?"
+    },
+    {
+        "options": [
+            {
+                "opID": 4554,
+                "option": "Neither A nor B",
+                "opScore": 0
+            },
+            {
+                "opID": 4282,
+                "option": "Only B",
+                "opScore": 1
+            },
+            {
+                "opID": 3224,
+                "option": "Only A",
+                "opScore": 2
+            },
+            {
+                "opID": 7420,
+                "option": "Both A and B"
+            }
+        ],
+        "questionID": 1064,
+        "question": "Do you feel that collaboration increases?   a. Productivity b. employee realationship"
+    },
+    {
+        "options": [
+            {
+                "opID": 7631,
+                "option": "Pay for the analysis alone and get the work done",
+                "opScore": 0
+            },
+            {
+                "opID": 7022,
+                "option": "Collaborate the work with them by giving credit to your findings",
+                "opScore": 1
+            },
+            {
+                "opID": 7195,
+                "option": "Use the barter system, get your work done from them, and in return owe them a favor of a similar nature",
+                "opScore": 2
+            },
+            {
+                "opID": 8836,
+                "option": "Give them co-authorship in the research paper that is going to be published based on the research."
+            }
+        ],
+        "questionID": 1065,
+        "question": "You are carrying out research on a new scientific compound that when developed would help mankind in a highly positive way. Unfortunately, you can carry out the testing of the product only for certain parameters in your laboratory. But you find a similar work being carried out in a different university, in a different country. How will you manage to get the work done effectively?"
+    },
+    {
+        "options": [
+            {
+                "opID": 2019,
+                "option": "Weigh the ideas based on the expertise and move on with the best idea possible",
+                "opScore": 0
+            },
+            {
+                "opID": 9104,
+                "option": "Tell them to work together no questions asked",
+                "opScore": 1
+            },
+            {
+                "opID": 2240,
+                "option": "Collaborate with the two of them to work and report to you directly so that you can oversee each move",
+                "opScore": 2
+            },
+            {
+                "opID": 4290,
+                "option": "Tell them an experience from your days on how working together benefits and ask them to work on the task"
+            }
+        ],
+        "questionID": 1066,
+        "question": "Two of your co-worker have a conflict of interest in an idea and you are the boss. They come up with their ideas individually and tell you their ideas. Unfortunately, both of them are correct and need to be carried on for effective delivery of the product. But they don't seem to like each other. What will be your move?"
+    },
+    {
+        "options": [
+            {
+                "opID": 1809,
+                "option": "See the situation is the neighbor is not taking action wait for them to do it first",
+                "opScore": 0
+            },
+            {
+                "opID": 5445,
+                "option": "Remove what you have littered and leave the rest as it is not your responsibility for the whole thing",
+                "opScore": 1
+            },
+            {
+                "opID": 4036,
+                "option": "Inform the authorities and accept the fact that if everyone gets involved you will also do your part",
+                "opScore": 2
+            },
+            {
+                "opID": 5489,
+                "option": "Talk with the neighbor and work together on the clean-up"
+            }
+        ],
+        "questionID": 1067,
+        "question": "You have been dumping waste in a certain open space for years together. But it is not only you, but your neighbor has also been dumping in the same place as you are. Now that you are required to clean based on the instructions from the government."
+    },
+    {
+        "options": [
+            {
+                "opID": 5668,
+                "option": "Turn down his request and ask him to try with another coworker",
+                "opScore": 0
+            },
+            {
+                "opID": 7507,
+                "option": "Consult with the boss whether you can work along with him and do as instructed",
+                "opScore": 1
+            },
+            {
+                "opID": 3785,
+                "option": "Since you are already occupied with your work, request another coworker on his behalf and get the work done",
+                "opScore": 2
+            },
+            {
+                "opID": 3567,
+                "option": "Work with him since you understand his situation and complete the work"
+            }
+        ],
+        "questionID": 1068,
+        "question": "You are working on something that needs to be completed at the end of the week. Suddenly a coworker is asking for help with some of his tasks. He is asking for help not because he is not competent in doing the work himself. He is asking just because his deadline is nearing and he cannot complete the task on time. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5788,
+                "option": "You will not be able to help since you will be occupied with your own tasks",
+                "opScore": 0
+            },
+            {
+                "opID": 7081,
+                "option": "Refer someone else to whom they can ask for help",
+                "opScore": 1
+            },
+            {
+                "opID": 3833,
+                "option": "Help them, but limit yourself by taking half of the task",
+                "opScore": 2
+            },
+            {
+                "opID": 2248,
+                "option": "Help them with the task, so that they would help you when you are in a crisis. "
+            }
+        ],
+        "questionID": 1069,
+        "question": "A task is assigned to your co-worker and he/she asks for your help in finishing the task since the schedule is very limited. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9621,
+                "option": "Look for additional job offers, that you might get.",
+                "opScore": 0
+            },
+            {
+                "opID": 8508,
+                "option": "Choose the highest paying job straightaway.",
+                "opScore": 1
+            },
+            {
+                "opID": 8054,
+                "option": "Weigh out your pros and cons and choose the offer that would be best suitable for you.",
+                "opScore": 2
+            },
+            {
+                "opID": 6176,
+                "option": "Choose the company with the low salary package, since it offers you a teamworking environment"
+            }
+        ],
+        "questionID": 1070,
+        "question": "You have two job offers from two companies. the company which is flexible and promotes teamwork offers you a lesser salary package than the company which is rigid in the rules. what will you choose? "
+    },
+    {
+        "options": [
+            {
+                "opID": 1209,
+                "option": "Since overtaking is not allowed pedal down on the gas and force the oncoming driver to hit the brakes",
+                "opScore": 0
+            },
+            {
+                "opID": 6059,
+                "option": "Turn on the blinker and proceed ahead with the oncoming traffic",
+                "opScore": 1
+            },
+            {
+                "opID": 9242,
+                "option": "Hit the brakes and allow the on coming driver to pass by ",
+                "opScore": 2
+            },
+            {
+                "opID": 9571,
+                "option": "Assess the SSD and stop or proceed with in the oncoming traffic",
+                "opScore": 3
+            }
+        ],
+        "traitID": 8,
+        "questionID": 1071,
+        "question": "In case you are driving on a single-lane road on a highway, you see a vehicle approaching on the opposite lane, where overtaking is not allowed, what will you do in this situation?  "
+    },
+    {
+        "options": [
+            {
+                "opID": 1278,
+                "option": "Since you are not in one of the affected groups you choose to remain silent as it would disturb the peace of all the people in the workplace",
+                "opScore": 0
+            },
+            {
+                "opID": 1070,
+                "option": "Call the person who is responsible for the happenings in the organization separately and let them understand the situation and warn them if the same thing continues you will inform to the boss",
+                "opScore": 1
+            },
+            {
+                "opID": 9302,
+                "option": "Talk to the super boss of the organization and let them know about the persisting situation and see that the situation is handled ",
+                "opScore": 2
+            },
+            {
+                "opID": 5852,
+                "option": "Confront the person who is wrongfully treating a certain communituy immediately on the spot irrespective of the surroundings and make them clear that their behavior and attitude are unacceptable.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 8,
+        "questionID": 1072,
+        "question": "In a workplace, where inclusivity is the main face of the organization, you tend to notice injustice and omission towards certain communities of people, what will be the state of mind and reaction to the issue? "
+    },
+    {
+        "options": [
+            {
+                "opID": 6862,
+                "option": "Stay silent as it is not affecting you in any way, and carry on with the work ",
+                "opScore": 0
+            },
+            {
+                "opID": 5805,
+                "option": "Talk with the boss separately and make him understand the sitaution since others are not feeling comfortable with their attitude",
+                "opScore": 1
+            },
+            {
+                "opID": 1343,
+                "option": "Discuss with your co-workers whether to approach the boss or not since it would jeopardize others situations as well.",
+                "opScore": 2
+            },
+            {
+                "opID": 4142,
+                "option": "Tell the boss about communism in the workplace is much needed, and point out to them that what they are doing is wrong.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 8,
+        "questionID": 1073,
+        "question": "The boss favors certain people in the organization and offers them certain privileges and incentives beyond their ability and undermines certain people even though they are working hard and delivering results as expected, how will you approach this situation?     "
+    },
+    {
+        "options": [
+            {
+                "opID": 3232,
+                "option": "Since the comment was made behind your back, and you don't know whether the person has made the comment or not let it go and carry on with the day",
+                "opScore": 0
+            },
+            {
+                "opID": 9261,
+                "option": "cross check with your other coworkers whether the accusations are correct and then decide what to do.",
+                "opScore": 1
+            },
+            {
+                "opID": 3395,
+                "option": "Confront the person who made the comment and warn them giving the last warning, and  inform them that if the same thing happens again you will complain to the boss.",
+                "opScore": 2
+            },
+            {
+                "opID": 4799,
+                "option": "Since you surely know that the comment is about you, ask the person on the face and go ahead in complaining to the boss straight away.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 8,
+        "questionID": 1074,
+        "question": "There is a leud sexist comment that is made about you behind your back, but you come to know about it through the word of mouth from some other person, how will you react in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 1833,
+                "option": "Since you have an important meeting to catch up on, leave the place and think of what to do afterward",
+                "opScore": 0
+            },
+            {
+                "opID": 5355,
+                "option": "move away from the situation and inform the authorities without revealing you identity",
+                "opScore": 1
+            },
+            {
+                "opID": 5416,
+                "option": "stop the person and warn him, if they are not listening inform the authorities and see that the action is taken against them",
+                "opScore": 2
+            },
+            {
+                "opID": 3404,
+                "option": "Stop the person right there and inform the authorities and see that necessary action is taken against the person ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 8,
+        "questionID": 1075,
+        "question": "You happen to see a person abusing a dog on the street, when you are passing by on the street, what will you do to handle the situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9746,
+                "option": "since he is your friend leave it as it is on the call and talk to him later ",
+                "opScore": 0
+            },
+            {
+                "opID": 1520,
+                "option": "convey the discomfort in a polite way since he is your friend and continue with the call",
+                "opScore": 1
+            },
+            {
+                "opID": 5946,
+                "option": "convey the discomfort in a strict way and shut them on the call and continue with the call",
+                "opScore": 2
+            },
+            {
+                "opID": 6029,
+                "option": "tell that you are uncomfortable with the comment that he made and exit the call immediately ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 8,
+        "questionID": 1076,
+        "question": "In a conference call with all your coworkers, at one point in time, a coworker who is also a close friend of you has made a leud comment that makes you uncomfortable, how will you handle the situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 8976,
+                "option": "Since there is no sign stopping you, continue using the exit.",
+                "opScore": 0
+            },
+            {
+                "opID": 1624,
+                "option": "use the exit for the day and ask for clarification from the manager whether to use the exit or not after that.",
+                "opScore": 1
+            },
+            {
+                "opID": 2456,
+                "option": "oblige to the worker instructing you and use the main exit. ",
+                "opScore": 2
+            },
+            {
+                "opID": 3313,
+                "option": "though there is no sign refusing you to use the fire exit, use the main exit by default. ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 8,
+        "questionID": 1077,
+        "question": "There is a fire exit in your company that does not have a sign stating that you cannot use it unless in case of fire. You have been using the exit for months, suddenly a worker tells you that you should not use the exit, even though there is no clear sign stoping you from using the exit. what will you do?"
+    },
+    {
+        "options": [
+            {
+                "opID": 8854,
+                "option": "accept the change in the project workspace and continue giving your best for the appointed project.",
+                "opScore": 0
+            },
+            {
+                "opID": 2193,
+                "option": "though you are new to the project, do not show skittishness in the work place and work on the project. ",
+                "opScore": 1
+            },
+            {
+                "opID": 9107,
+                "option": "take time to sink into the new project for a week probably and continue giving your best for the project.",
+                "opScore": 2
+            },
+            {
+                "opID": 8121,
+                "option": "you will feel a bit lonely initially, but will cope up with the new project and new project mates and start working. ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 8,
+        "questionID": 1078,
+        "question": "you have been promoted from one project that you have been working on for months to a new project, how will you adapt to the situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6915,
+                "option": "Since you are new to the gang and you do not know the people well, just move on with a smile and ignore the comments made.",
+                "opScore": 0
+            },
+            {
+                "opID": 8498,
+                "option": "tell the person that you are uncomfortable with the situation and leave the place. ",
+                "opScore": 1
+            },
+            {
+                "opID": 4814,
+                "option": "Tell the person that made the comment that you are uncomfortable with the situation and make sure that they do not make the same mistake again and carry on with the get-together.",
+                "opScore": 2
+            },
+            {
+                "opID": 2015,
+                "option": "Tell that one friend you know that you are uncomfortable with the comment made and make sure to let know that others are aware that you are not okay in this situation.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 8,
+        "questionID": 1079,
+        "question": "You are visiting a friend's place for a get-together and you are the new one in the gang. As time goes on, some comments passed that are of course made just for fun, but kind of offensive. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9984,
+                "option": "Since you have left the organization, you will have a new workplace and new friends, just move on. ",
+                "opScore": 0
+            },
+            {
+                "opID": 7757,
+                "option": "accept the fact that you have moved on from the organization and catch up when the friends of your old organization reach out to you",
+                "opScore": 1
+            },
+            {
+                "opID": 2428,
+                "option": "stay in touch regularly with friends from your old organization and possibly build a rapport with the employees of both the old and the new organization. ",
+                "opScore": 2
+            },
+            {
+                "opID": 4255,
+                "option": "Stay in touch with your friends from the old company once in a while even though you have quit your organisation. ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 8,
+        "questionID": 1080,
+        "question": "You have quit the job owing to salary issues at your organization, but you have a very goof rapport with the people at the work place with that you have made good friends. How will you accept that fact that you have moved on from the work place?"
+    },
+    {
+        "options": [
+            {
+                "opID": 1512,
+                "option": "See that the opinion of your team is heard loud and clear and stand on the decision that your team makes, since you feel that is the right thing to do. ",
+                "opScore": 0
+            },
+            {
+                "opID": 8140,
+                "option": "Talk with both teams and make sure that your decision on the issue is carried out. ",
+                "opScore": 1
+            },
+            {
+                "opID": 6685,
+                "option": "Talk with both the teams and arrive at a collaborative conculsion that has both teams opinins in the decission",
+                "opScore": 2
+            },
+            {
+                "opID": 4903,
+                "option": "Analyze the situation and take a decision that would be good for the project, be it either your team's opinion completely or the other team's decision completely since the project is important. ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 9,
+        "questionID": 1081,
+        "question": "You are expected to work closely with another team for the completion of a certain project, midway you have the team that you work has a difference of opinion with the other team on a certain issue. how will you handle the situation? "
+    },
+    {
+        "options": [
+            {
+                "opID": 6569,
+                "option": "Lay off the arrogant employee",
+                "opScore": 0
+            },
+            {
+                "opID": 8806,
+                "option": "Confront the arrogant employee and give them the last warning.",
+                "opScore": 1
+            },
+            {
+                "opID": 4688,
+                "option": "Change the employee to another department or project where his/her expertise is needed.",
+                "opScore": 2
+            },
+            {
+                "opID": 9447,
+                "option": "Talk to the employee about their behavior and make them work together on the task and see the outcome. ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 9,
+        "questionID": 1082,
+        "question": "You notice a team member being arrogant to one of the co-workers always. What will you do to handle this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5297,
+                "option": "stay silent as the meeting progresses since the person is in a senior position than you",
+                "opScore": 0
+            },
+            {
+                "opID": 9912,
+                "option": "Wait till the meeting finishes and ask the person why did they tell that it was your fault",
+                "opScore": 1
+            },
+            {
+                "opID": 7577,
+                "option": "Stop them at the meeting and tell them that it was not your fault. ",
+                "opScore": 2
+            },
+            {
+                "opID": 4090,
+                "option": "Wait till the meeting finishes and inform the manager that it was not your fault that the deadlines have not been met and tell them you were falsely accused. ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 9,
+        "questionID": 1083,
+        "question": "How would you react if a coworker blamed you for something that wasn\u2019t entirely your fault (eg. missing a deadline) during a meeting?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3544,
+                "option": "Since you know that your approach would work, choose to ignore the comment and work on the project.",
+                "opScore": 0
+            },
+            {
+                "opID": 9019,
+                "option": "Take the comment to the higher authorities and ask what can be done. ",
+                "opScore": 1
+            },
+            {
+                "opID": 1772,
+                "option": "Ask for their advice since they are the ones who commented on the approach, and if the input seems constructive incorporate them into the approach.",
+                "opScore": 2
+            },
+            {
+                "opID": 3929,
+                "option": "Tell them that the results will be as expected and tell them to be patient till the problem is addressed, as everyone is different in the way of approaching the problems",
+                "opScore": 3
+            }
+        ],
+        "traitID": 9,
+        "questionID": 1084,
+        "question": "What would you do if you are being negatively commented on the way that you approach a problem?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3981,
+                "option": "As these kinds of complaints are common, leave the problem as it is, since enquiring into the matter would cause much bigger problems. ",
+                "opScore": 0
+            },
+            {
+                "opID": 7934,
+                "option": "Ask the employee to report to the higher authorities",
+                "opScore": 1
+            },
+            {
+                "opID": 4699,
+                "option": "call both employees to ask their stand on the complaint and report to the higher authorities if needed.",
+                "opScore": 2
+            },
+            {
+                "opID": 3500,
+                "option": "Call the employee on whom the complaint has been made, ask them the reason and give them a warning or take the next step if you think it is necessary. ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 9,
+        "questionID": 1085,
+        "question": "You are receiving a complaint from an employee regarding another employee's behavior towards them. How will you handle this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6482,
+                "option": "Since it is natural for a team to have conflicts here and there a little bit, leave it as it would subside by itself.",
+                "opScore": 0
+            },
+            {
+                "opID": 6219,
+                "option": "Arrange a brainstorming session as to what causes the conflicts and see whether action is needed or not ",
+                "opScore": 1
+            },
+            {
+                "opID": 9760,
+                "option": "As the company HR to conduct a monthly review meeting for the individual employee, and observe the responses as to what causes employee discomfort.",
+                "opScore": 2
+            },
+            {
+                "opID": 3617,
+                "option": "Plan for a team outing once in 6 months for a day, that would be completely off the work to ease up the situation so that the employees get a good rapport.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 9,
+        "questionID": 1086,
+        "question": "Assume yourself as the team manager, how will you handle the conflicts that arise in your team?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3531,
+                "option": "Since there is no mistake from your side, tell him that he has misunderstood and hang up the call.",
+                "opScore": 0
+            },
+            {
+                "opID": 9232,
+                "option": "Explain that he has misunderstood the terms and nothing can be done from your side. ",
+                "opScore": 1
+            },
+            {
+                "opID": 7515,
+                "option": "Explain to the customer that he has misunderstood the terms and conditions and clarify the doubts till he understands it since it is your responsibility to make him understand.",
+                "opScore": 2
+            },
+            {
+                "opID": 2260,
+                "option": "Explain to him the terms and conditions and even after that if he is not satisfied talk connect to the manager for further clarifications.  ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 9,
+        "questionID": 1087,
+        "question": "You work with the customer support team of a company. You get a call from a customer who is angry about the service, but you know that he has misunderstood the terms and conditions. What will you do in this situation? "
+    },
+    {
+        "options": [
+            {
+                "opID": 3915,
+                "option": "Compassion",
+                "opScore": 0
+            },
+            {
+                "opID": 3019,
+                "option": "Easy going attitude",
+                "opScore": 1
+            },
+            {
+                "opID": 8023,
+                "option": "Sensitive to tough situations",
+                "opScore": 2
+            },
+            {
+                "opID": 5060,
+                "option": "Conflict managing ability",
+                "opScore": 3
+            }
+        ],
+        "traitID": 9,
+        "questionID": 1088,
+        "question": "What is the most essential quality that a manager should possess to handle a huge team of people?"
+    },
+    {
+        "options": [
+            {
+                "opID": 4744,
+                "option": "Rule consiousness",
+                "opScore": 0
+            },
+            {
+                "opID": 5125,
+                "option": "Emotional stability",
+                "opScore": 1
+            },
+            {
+                "opID": 9161,
+                "option": "Team work",
+                "opScore": 2
+            },
+            {
+                "opID": 2575,
+                "option": "Empathy and listening",
+                "opScore": 3
+            }
+        ],
+        "traitID": 9,
+        "questionID": 1089,
+        "question": "What is the most essential quality in conflict management?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5262,
+                "option": "Not necessary",
+                "opScore": 0
+            },
+            {
+                "opID": 8823,
+                "option": "Somewhat necessary",
+                "opScore": 1
+            },
+            {
+                "opID": 1714,
+                "option": "Very necessary",
+                "opScore": 2
+            },
+            {
+                "opID": 8198,
+                "option": "Depends on the situation and circumstances",
+                "opScore": 3
+            }
+        ],
+        "traitID": 9,
+        "questionID": 1090,
+        "question": "How essential is conflict management for maintaining a good work place?"
+    },
+    {
+        "options": [
+            {
+                "opID": 6849,
+                "option": "As this happens in every other workplace, let it subside on its own. ",
+                "opScore": 0
+            },
+            {
+                "opID": 8275,
+                "option": "Arrange for a meeting later in the day and indirectly deliver the message that bias would not be encouraged in the organization. ",
+                "opScore": 1
+            },
+            {
+                "opID": 9251,
+                "option": "Interfere in the situation on the spot and correct them.",
+                "opScore": 2
+            },
+            {
+                "opID": 4368,
+                "option": "Call the person or the group of people making the issue and explain to them their mistake and make sure that does not happen in the future.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 10,
+        "questionID": 1091,
+        "question": "If you happen to notice there is bias in your workplace and you are the manager of the team, what would you do to curb the issue?"
+    },
+    {
+        "options": [
+            {
+                "opID": 1016,
+                "option": "Not important as it has no effect on productivity in the workplace.",
+                "opScore": 0
+            },
+            {
+                "opID": 8731,
+                "option": "No opinion since it depends on the type of workplace.",
+                "opScore": 1
+            },
+            {
+                "opID": 7382,
+                "option": "Depends on the people and the type of project.",
+                "opScore": 2
+            },
+            {
+                "opID": 5047,
+                "option": "Highly important as it inculcates inclusivity in the workplace. ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 10,
+        "questionID": 1092,
+        "question": "How important is diversity important in the work place? "
+    },
+    {
+        "options": [
+            {
+                "opID": 9668,
+                "option": "Openness",
+                "opScore": 0
+            },
+            {
+                "opID": 2882,
+                "option": "Friendship ",
+                "opScore": 1
+            },
+            {
+                "opID": 8582,
+                "option": "Patience",
+                "opScore": 2
+            },
+            {
+                "opID": 4123,
+                "option": "Empathy",
+                "opScore": 3
+            }
+        ],
+        "traitID": 10,
+        "questionID": 1093,
+        "question": "What do you think is the most important quality to pocess in implementing diversity and inclusivity in the workplace?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3765,
+                "option": "Just let the advertisement slide on as it is the company's policy.",
+                "opScore": 0
+            },
+            {
+                "opID": 4943,
+                "option": "Call the company's PRO and clarify with the advertisement.",
+                "opScore": 1
+            },
+            {
+                "opID": 9828,
+                "option": "Take it out to the public, as it benefits only certain group of people and affects the sentiments of rest others and also does not provide a fair opportunity.",
+                "opScore": 2
+            },
+            {
+                "opID": 5276,
+                "option": "Talk to the company's PRO and make sure that the advertisement is very partial and make sure the advertisement is changed.  ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 10,
+        "questionID": 1094,
+        "question": "You see a job opening in an advertisement, that accepts only applications from a certain group of people, and clearly states that applications from anyone else would not be accepted. How will you react to the advertisement? "
+    },
+    {
+        "options": [
+            {
+                "opID": 6757,
+                "option": "Not agree",
+                "opScore": 0
+            },
+            {
+                "opID": 8863,
+                "option": "Depends on the workplace",
+                "opScore": 1
+            },
+            {
+                "opID": 7507,
+                "option": "Agree ",
+                "opScore": 2
+            },
+            {
+                "opID": 6004,
+                "option": "Strongly agree ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 10,
+        "questionID": 1095,
+        "question": "How do you respond to the idea of inclusivity in the workplace?"
+    },
+    {
+        "options": [
+            {
+                "opID": 2163,
+                "option": "Depending upon the seniority level in the organization.",
+                "opScore": 0
+            },
+            {
+                "opID": 4702,
+                "option": "Depending upon the work delivered on a previously worked project",
+                "opScore": 1
+            },
+            {
+                "opID": 7792,
+                "option": "Depending upon the experience in the field of the selected project",
+                "opScore": 2
+            },
+            {
+                "opID": 5901,
+                "option": "Choose from a wide range of experience i.e., including experienced, senior staff and freshers so that it would have a collaborative effort.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 10,
+        "questionID": 1096,
+        "question": "You are the manager of a project, you are having a huge team but you require only a handful to work on the project. How will you choose your team?"
+    },
+    {
+        "options": [
+            {
+                "opID": 5912,
+                "option": "Probably not because of the hectic work schedule but will make effort.",
+                "opScore": 0
+            },
+            {
+                "opID": 3366,
+                "option": "Depending on the situation.",
+                "opScore": 1
+            },
+            {
+                "opID": 1838,
+                "option": "Possibly will make time.",
+                "opScore": 2
+            },
+            {
+                "opID": 4713,
+                "option": "Yes, will make time",
+                "opScore": 3
+            }
+        ],
+        "traitID": 10,
+        "questionID": 1097,
+        "question": "Before you become a leader you have been an entry-level employee in an organization. You had a good meteor who was helping you in every stage of your employment progress. But after getting into a leadership position and you are too busy for the day's tasks, will you be able to make time to keep up with your mentors?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9681,
+                "option": "Do as instructed since the management has laid down clear-cut rules on who to include in organizing the event.",
+                "opScore": 0
+            },
+            {
+                "opID": 6516,
+                "option": "express your discomfort about the situation and share the responsibility of conducting the event with another co-worker.",
+                "opScore": 1
+            },
+            {
+                "opID": 4327,
+                "option": "Try explaining to the management, that it does not bring equality among the students, but if they don't accept the fact conduct the event anyway in terms of the management's rules.",
+                "opScore": 2
+            },
+            {
+                "opID": 2491,
+                "option": "Tell them that you are not interested in organizing the event as it does not promote inclusion and equality among the students.",
+                "opScore": 3
+            }
+        ],
+        "traitID": 10,
+        "questionID": 1098,
+        "question": "You are the staff for a class of 60 students, you are expected to conduct a symposium but the management has clearly instructed you to rope in students who have scored above 7CGPA for organizing the event. What will you do in this situation?"
+    },
+    {
+        "options": [
+            {
+                "opID": 9747,
+                "option": "The way the candidate carries himself.",
+                "opScore": 0
+            },
+            {
+                "opID": 8591,
+                "option": "Skills of the candidate.",
+                "opScore": 1
+            },
+            {
+                "opID": 5520,
+                "option": "Experience of the candidate.",
+                "opScore": 2
+            },
+            {
+                "opID": 1713,
+                "option": "Background and interpersonal skills of the candidate. ",
+                "opScore": 3
+            }
+        ],
+        "traitID": 10,
+        "questionID": 1099,
+        "question": "While hiring a candidate out of the four options, what feels the most necessary point to be considered?"
+    },
+    {
+        "options": [
+            {
+                "opID": 3955,
+                "option": "Highly important since he would represent the organization if recruited. ",
+                "opScore": 0
+            },
+            {
+                "opID": 1900,
+                "option": "Slightly to be considered important.",
+                "opScore": 1
+            },
+            {
+                "opID": 3589,
+                "option": "Depend on the role that you are choosing for.",
+                "opScore": 2
+            },
+            {
+                "opID": 3346,
+                "option": "Not important since talent is important",
+                "opScore": 3
+            }
+        ],
+        "traitID": 10,
+        "questionID": 1100,
+        "question": "How important is the way the candidate dresses and the way he fluently communicates important while recruiting the candidate?"
+    }
+]

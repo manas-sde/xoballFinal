@@ -1,0 +1,128 @@
+{
+    "numFailedTestSuites": 1,
+    "numFailedTests": 1,
+    "numPassedTestSuites": 0,
+    "numPassedTests": 4,
+    "numPendingTestSuites": 0,
+    "numPendingTests": 0,
+    "numRuntimeErrorTestSuites": 0,
+    "numTodoTests": 0,
+    "numTotalTestSuites": 1,
+    "numTotalTests": 5,
+    "openHandles": [],
+    "snapshot": {
+        "added": 0,
+        "didUpdate": false,
+        "failure": false,
+        "filesAdded": 0,
+        "filesRemoved": 0,
+        "filesRemovedList": [],
+        "filesUnmatched": 0,
+        "filesUpdated": 0,
+        "matched": 0,
+        "total": 0,
+        "unchecked": 0,
+        "uncheckedKeysByFile": [],
+        "unmatched": 0,
+        "updated": 0
+    },
+    "startTime": 1686633367738,
+    "success": false,
+    "testResults": [
+        {
+            "assertionResults": [
+                {
+                    "ancestorTitles": [
+                        "App"
+                    ],
+                    "duration": 16,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "App renders the component",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 0,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "renders the component"
+                },
+                {
+                    "ancestorTitles": [
+                        "App"
+                    ],
+                    "duration": 13,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "App has the correct heading text",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 1,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "has the correct heading text"
+                },
+                {
+                    "ancestorTitles": [
+                        "App"
+                    ],
+                    "duration": 13,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "App increments the counter when the button is clicked",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 4,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "increments the counter when the button is clicked"
+                },
+                {
+                    "ancestorTitles": [
+                        "App"
+                    ],
+                    "duration": 4,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "App updates the input value correctly",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 1,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "updates the input value correctly"
+                },
+                {
+                    "ancestorTitles": [
+                        "App"
+                    ],
+                    "duration": 31,
+                    "failureDetails": [
+                        {
+                            "matcherResult": {
+                                "pass": false,
+                                "message": "\u001b[2mexpect(\u001b[22m\u001b[31melement\u001b[39m\u001b[2m).toHaveTextContent()\u001b[22m\n\nExpected element to have text content:\n\u001b[32m  Please enter a number between 0 and 100.\u001b[39m\nReceived:\n"
+                            }
+                        }
+                    ],
+                    "failureMessages": [
+                        "Error: \u001b[2mexpect(\u001b[22m\u001b[31melement\u001b[39m\u001b[2m).toHaveTextContent()\u001b[22m\n\nExpected element to have text content:\n\u001b[32m  Please enter a number between 0 and 100.\u001b[39m\nReceived:\n\n    at Object.toHaveTextContent (/home/manas/xobin/frametest/compiler-backend/react-backend/src/cand21.test.js:69:26)\n    at Promise.then.completed (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-circus/build/utils.js:293:28)\n    at new Promise (<anonymous>)\n    at callAsyncCircusFn (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-circus/build/utils.js:226:10)\n    at _callCircusTest (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-circus/build/run.js:297:40)\n    at _runTest (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-circus/build/run.js:233:3)\n    at _runTestsForDescribeBlock (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-circus/build/run.js:135:9)\n    at _runTestsForDescribeBlock (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-circus/build/run.js:130:9)\n    at run (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-circus/build/run.js:68:3)\n    at runAndTransformResultsToJestFormat (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:122:21)\n    at jestAdapter (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:79:19)\n    at runTestInternal (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-runner/build/runTest.js:367:16)\n    at runTest (/home/manas/.nvm/versions/node/v16.14.0/lib/node_modules/jest/node_modules/jest-runner/build/runTest.js:444:34)"
+                    ],
+                    "fullName": "App validates the input field correctly",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 0,
+                    "retryReasons": [],
+                    "status": "failed",
+                    "title": "validates the input field correctly"
+                }
+            ],
+            "endTime": 1686633368780,
+            "message": "\u001b[1m\u001b[31m  \u001b[1m● \u001b[22m\u001b[1mApp › validates the input field correctly\u001b[39m\u001b[22m\n\n    \u001b[2mexpect(\u001b[22m\u001b[31melement\u001b[39m\u001b[2m).toHaveTextContent()\u001b[22m\n\n    Expected element to have text content:\n    \u001b[32m  Please enter a number between 0 and 100.\u001b[39m\n    Received:\n\u001b[2m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 67 |\u001b[39m     fireEvent\u001b[33m.\u001b[39mclick(buttonElement)\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 68 |\u001b[39m     console\u001b[33m.\u001b[39mlog(\u001b[32m'Error Message : '\u001b[39m\u001b[33m,\u001b[39merrorElement\u001b[33m.\u001b[39minnerHTML)\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[2m\u001b[39m\u001b[90m 69 |\u001b[39m     expect(errorElement)\u001b[33m.\u001b[39mtoHaveTextContent(\u001b[32m'Please enter a number between 0 and 100.'\u001b[39m)\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m    |\u001b[39m                          \u001b[31m\u001b[1m^\u001b[22m\u001b[2m\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 70 |\u001b[39m     console\u001b[33m.\u001b[39mlog(\u001b[32m'Test1'\u001b[39m)\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 71 |\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 72 |\u001b[39m     fireEvent\u001b[33m.\u001b[39mchange(inputElement\u001b[33m,\u001b[39m { target\u001b[33m:\u001b[39m { value\u001b[33m:\u001b[39m \u001b[32m'200'\u001b[39m } })\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m\u001b[22m\n\u001b[2m      \u001b[2mat Object.toHaveTextContent (\u001b[22m\u001b[2m\u001b[0m\u001b[36msrc/cand21.test.js\u001b[39m\u001b[0m\u001b[2m:69:26)\u001b[22m\u001b[2m\u001b[22m\n",
+            "name": "/home/manas/xobin/frametest/compiler-backend/react-backend/src/cand21.test.js",
+            "startTime": 1686633367760,
+            "status": "failed",
+            "summary": ""
+        }
+    ],
+    "wasInterrupted": false
+}

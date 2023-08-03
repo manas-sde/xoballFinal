@@ -1,0 +1,2 @@
+service: frametest-frontend
+runtime: nodejs16

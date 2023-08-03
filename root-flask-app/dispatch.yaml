@@ -1,0 +1,26 @@
+dispatch:
+  # Default service serves the dummy flask app.
+  - url: "*/wc/*"
+    service: dummy-service
+
+  # psychometric-frontend service serves the frontend of psychometric project .
+  - url: "*/app"
+    service: psychometric-frontend
+
+  - url: "*/app/*"
+    service: psychometric-frontend
+
+  - url: "psychometric-frontend-dot-xobin-verification.uc.r.appspot.com/_app/*"
+    service: psychometric-frontend
+
+  # Serving static files
+  - url: "*/psychometric-staticfiles/*"
+    service: psychometric-frontend
+
+  # Serving route for frametest-frontend
+  - url: "frametest-frontend-dot-xobin-verification.uc.r.appspot.com/_app/*"
+    service: frametest-frontend
+
+  # Default service serves the dummy flask app.
+  - url: "*/.*"
+    service: default

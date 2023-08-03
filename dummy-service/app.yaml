@@ -1,0 +1,2 @@
+service: dummy-service
+runtime: python39

@@ -1,0 +1,2 @@
+service: proctor-proto
+runtime: nodejs16
